@@ -2,6 +2,17 @@
 
 This project performs exploratory data analysis (EDA) on a dataset of Netflix movies to uncover insights and patterns. It aims to derive insights into genres, popularity, and filming trends identify key factors, and visualize the data for better interpretation.
 
+---
+
+## Project Structure  
+- **Dataset**: Netflix Movies Dataset  
+- **Tools Used**: Python, Pandas, Numpy, Matplotlib, Seaborn  
+- **Steps**:  
+  1. Data Cleaning and Preprocessing  
+  2. Exploratory Data Analysis  
+  3. Visualization and Insights
+
+--- 
 ## Insights  
 
 ### Q1: What is the most frequent genre of movie released on Netflix?  
@@ -28,15 +39,7 @@ This project performs exploratory data analysis (EDA) on a dataset of Netflix mo
 - The most popular movie, **Spider-Man: No Way Home**, spans multiple genres, reflecting diverse audience interests.  
 - The year 2020 saw a significant increase in movie production.
 
----
 
-## Project Structure  
-- **Dataset**: Netflix Movies Dataset  
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn  
-- **Steps**:  
-  1. Data Cleaning and Preprocessing  
-  2. Exploratory Data Analysis  
-  3. Visualization and Insights  
 
 
 
