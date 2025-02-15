@@ -1,6 +1,6 @@
 # Netflix Movies Data Analysis
 
-This project analyzes a dataset of Netflix movies to derive insights into genres, popularity, and filming trends.
+This project performs exploratory data analysis (EDA) on a dataset of Netflix movies to uncover insights and patterns. It aims to derive insights into genres, popularity, and filming trends identify key factors, and visualize the data for better interpretation.
 
 ## Insights  
 
